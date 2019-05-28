@@ -1,5 +1,5 @@
 # Proxy-Server
-###multi-threaded HTTP proxy server, which can handle and serve many requests, using sockets.
+## multi-threaded HTTP proxy server, which can handle and serve many requests, using sockets.
 
 
 -Run both scripts to simulate the two ends.
